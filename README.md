@@ -4,7 +4,7 @@ My name is Orkhan, originally from Baku, Azerbaijan, currently living in Munich,
 
 You can ask me anything about PHP, Laravel, Symfony, JavaScript and Vue or even better lets collaborate on a project based on these technologies.
 
-From time to time I post about technical topics that I find interesting or useful on my personal blog [orkhan.dev](https://orkhan.dev).
+From time to time I post about technical topics that I find interesting and useful on my personal blog [orkhan.dev](https://orkhan.dev).
 
 Outside of coding mostly I spend time with my wife and little son. I'm also a runner, if like also like running and maybe want some competition, add me on "Nike Run Club": orkhan@fastmail.com
 
