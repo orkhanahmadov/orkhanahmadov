@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Orkhan, originally from Baku, Azerbaijan, currently living in Munich, Germany. I'm an experienced software engineer with passion for open-source, currently working at AirLST GmbH as senior software engineer.
+My name is Orkhan, currently living in Munich, Germany. I'm an experienced software engineer with passion for open-source, currently working at AirLST GmbH as senior software engineer.
 
 You can ask me anything about PHP, Laravel, Symfony, JavaScript and Vue or even better lets collaborate on a project based on these technologies.
 
