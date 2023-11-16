@@ -10,4 +10,4 @@ Outside of coding mostly I spend time with my wife and little son. I'm also runn
 
 I'm active on Twitter, so you can always reach me there [@orkhanahmadov](https://twitter.com/orkhanahmadov) or you can send me an email: [orkhan@fastmail.com](mailto:orkhan@fastmail.com)
 
-I speak 🇺🇸 English, 🇷🇺 Русский, 🇹🇷 Türkçe, 🇦🇿 Azərbaycanca and some 🇩🇪 Deutsch.
+I speak 🇺🇸 English, 🇩🇪 Deutsch, 🇷🇺 Русский, 🇹🇷 Türkçe, 🇦🇿 Azərbaycanca.
